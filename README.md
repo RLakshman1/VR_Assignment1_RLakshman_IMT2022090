@@ -22,6 +22,9 @@ The output will display the detected coins and print the total count.
 Output
 A displayed image with detected coin contours.
 Printed total number of detected coins.
+
+
+
 2. Image Stitching (Curtain Panorama)
 Description
 This program stitches multiple overlapping images (left to right) into a single panorama using OpenCV’s built-in stitching function.
